@@ -1,5 +1,5 @@
-Trey Lyle \n
-Student \n
+Trey Lyle<br />
+Student<br />
 Java, Python, C# (Primarily Java right now)
 
 <!---
