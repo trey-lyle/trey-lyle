@@ -1,6 +1,6 @@
-Trey Lyle<br />
-Alumni, Hillsborough Community College - A.S Computer Programming & Analysis, Highest Honors<br />
-Java, Python, C# (Primarily Java right now)
+Trey A. Lyle<br />
+Alumni, Hillsborough Community College - A.S Computer Programming & Analysis, Highest Honors.<br />
+Java, Python, C#<br />
 
 <!---
 trey-lyle/trey-lyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
