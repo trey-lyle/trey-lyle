@@ -1,5 +1,5 @@
 Trey Lyle<br />
-Student<br />
+Alumni, Hillsborough Community College - A.S Computer Programming & Analysis, Highest Honors<br />
 Java, Python, C# (Primarily Java right now)
 
 <!---
